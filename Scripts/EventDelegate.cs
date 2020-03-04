@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Szn.Framework.UtilPackage.Event
+namespace Szn.Framework.UtilPackage.EventUtil
 {
     public enum EventDelegateType : byte
     {

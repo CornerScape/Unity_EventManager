@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Szn.Framework.UtilPackage.Event
+namespace Szn.Framework.UtilPackage.EventUtil
 {
     public class EventManager : Singleton<EventManager>
     {
